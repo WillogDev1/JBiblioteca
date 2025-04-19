@@ -49,7 +49,7 @@ O projeto segue o padrão **MVC**:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/BiblioTech.git
+   git clone https://github.com/WillogDev1/BiblioTech.git
    ```
 2. Abra o projeto em uma IDE como **IntelliJ**, **Eclipse** ou **NetBeans**
 3. Compile e execute a classe principal: `BiblioTech.java`
